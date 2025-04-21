@@ -4,7 +4,9 @@
 let familia = [true,25,65,85,'André',250];
 console.log(familia.length);
 console.log(familia[4]);
+console.log(familia)
 
 let melhorAmigo = ['Felipe',36,'Niterói'];
 console.log(melhorAmigo.length);
 console.log(melhorAmigo[0]);
+console.log(melhorAmigo)
